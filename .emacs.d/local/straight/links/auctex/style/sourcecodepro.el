@@ -1,1 +1,0 @@
-c:/Users/sondr/.emacs.d/.local/straight/repos/auctex/style/sourcecodepro.el

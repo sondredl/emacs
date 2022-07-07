@@ -1,1 +1,0 @@
-c:/Users/sondr/.emacs.d/.local/straight/repos/emacs-libvterm/CMakeLists.txt

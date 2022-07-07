@@ -1,1 +1,0 @@
-c:/Users/sondr/.emacs.d/.local/straight/repos/evil-embrace.el/evil-embrace.el

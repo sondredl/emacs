@@ -1,1 +1,0 @@
-c:/Users/sondr/.emacs.d/.local/straight/repos/Emacs-wgrep/wgrep.el
