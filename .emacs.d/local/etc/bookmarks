@@ -1,0 +1,30 @@
+;;;; Emacs Bookmark Format Version 1;;;; -*- coding: utf-8-emacs; mode: lisp-data -*-
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("doom org notes"
+ (filename . "~/doom.org")
+ (front-context-string . "SPC b m\n** jump ")
+ (rear-context-string . "ark\n** set  --> ")
+ (position . 112))
+("ARqueRapport"
+ (filename . "~/Documents/ARque/rapport/rapport/")
+ (front-context-string . "1_Introduction\n ")
+ (rear-context-string . "  0 04-19 08:03 ")
+ (position . 146))
+("ARque unity project"
+ (filename . "~/Documents/ARque/unity/MRTK Fresh/")
+ (front-context-string . "Assembly-CSharp.")
+ (rear-context-string . ".1k 05-03 18:09 ")
+ (position . 148))
+("ARque-directory"
+ (filename . "~/Documents/ARque/")
+ (front-context-string . "Bachelor\n  drwxr")
+ (rear-context-string . "  0 02-15 10:14 ")
+ (position . 129))
+("Home-orgnotes"
+ (filename . "~/Documents/OrgNotes.org")
+ (front-context-string)
+ (rear-context-string . "th M-x arg-info\n")
+ (position . 128))
+)

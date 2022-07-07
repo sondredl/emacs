@@ -1,0 +1,1 @@
+c:/Users/sondr/.emacs.d/.local/straight/repos/treemacs/src/extra/treemacs-projectile.el

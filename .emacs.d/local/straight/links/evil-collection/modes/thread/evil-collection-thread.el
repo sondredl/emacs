@@ -1,0 +1,1 @@
+c:/Users/sondr/.emacs.d/.local/straight/repos/evil-collection/modes/thread/evil-collection-thread.el

@@ -1,0 +1,1 @@
+c:/Users/sondr/.emacs.d/.local/straight/repos/php-mode/lisp/php-project.el

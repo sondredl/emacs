@@ -1,0 +1,1 @@
+c:/Users/sondr/.emacs.d/.local/straight/repos/clj-refactor.el/CHANGELOG.md

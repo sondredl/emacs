@@ -1,0 +1,1 @@
+c:/Users/sondr/.emacs.d/.local/straight/repos/evil-nerd-commenter/evil-nerd-commenter-operator.el

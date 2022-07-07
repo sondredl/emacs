@@ -1,0 +1,1 @@
+c:/Users/sondr/.emacs.d/.local/straight/repos/adaptive-wrap/adaptive-wrap.el

@@ -1,0 +1,1 @@
+c:/Users/sondr/.emacs.d/.local/straight/repos/auto-yasnippet/auto-yasnippet.el

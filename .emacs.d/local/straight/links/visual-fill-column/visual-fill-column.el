@@ -1,0 +1,1 @@
+c:/Users/sondr/.emacs.d/.local/straight/repos/visual-fill-column/visual-fill-column.el

@@ -1,0 +1,1 @@
+c:/Users/sondr/.emacs.d/.local/straight/repos/emacs-slim/slim-mode.el
